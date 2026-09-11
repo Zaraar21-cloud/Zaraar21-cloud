@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=BD93F9&center=true&vCenter=true&width=700&height=60&lines=Hello+there!+I+am+Zaraar.;I+do+random+projects+I+find+interesting." alt="Hello there! I am Zaraar." />
-
-<a href="https://www.linkedin.com/in/mohammed-zaraar-javed-b17a28301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:zararmohammed21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://discord.gg/NSSqpAkf23"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<img src="https://komarev.com/ghpvc/?username=Zaraar21-cloud&style=for-the-badge&color=BD93F9&label=Profile+Views" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1200&color=BD93F9&center=true&vCenter=true&width=760&height=60&lines=Hello+there!+I+am+Zaraar.;I+do+random+projects+I+find+interesting." alt="Hello there! I am Zaraar. I do random projects I find interesting." />
 
 </div>
 
@@ -49,7 +44,7 @@ I love connecting with other tech enthusiasts, and I am curious about everything
 
 ## Featured Projects
 
-### FindR
+### <img src="Assets/FindR_Logo.png" alt="" height="26" align="top" /> FindR
 
 Multi-tenant lost and found platform that replaces the shoebox behind the front desk. Staff photograph a found item and a vision model fills in the descriptive attributes on its own, cataloguing it in under fifteen seconds.
 
@@ -63,7 +58,7 @@ Built with Next.js 15, React 19, TypeScript, Tailwind CSS v4 and Supabase, laid 
 
 ---
 
-### AscendAttendance_Logger
+### <img src="Assets/ascend-logo.png" alt="" height="26" align="top" /> AscendAttendance_Logger
 
 Single-use QR attendance system that replaced the paper register at the Sreenidhi Ascend Incubation Centre. A code appears on the centre's screen, a member scans it with their phone, and the visit is written straight into a Google Sheet.
 
@@ -75,7 +70,7 @@ Built with vanilla JavaScript, Firebase Hosting, Firestore and Google Apps Scrip
 
 ---
 
-### Attendify
+### <img src="Assets/Attendify-Logo.png" alt="" height="26" align="top" /> Attendify
 
 Attendance calculator that starts from a photograph. Upload a picture of your timetable and client-side OCR parses it into an editable weekly grid, then the calculator tells you exactly how many classes you need or how many you can safely skip to hit your target percentage.
 
@@ -124,6 +119,6 @@ Built with Next.js 16, React 19, TypeScript, Tailwind CSS v4 and Tesseract.js, w
 <a href="https://github.com/Zaraar21-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://devforum.roblox.com/u/celestialhonour/summary"><img src="https://img.shields.io/badge/Roblox_DevForum-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox DevForum" /></a>
 
-<sub>Always up for a conversation about tech.</sub>
+<sub>Feel free to reach out about anything.</sub>
 
 </div>

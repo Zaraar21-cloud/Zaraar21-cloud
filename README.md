@@ -78,7 +78,7 @@ There is also a what-if simulator for toggling planned attendance across upcomin
 
 Built with Next.js 16, React 19, TypeScript, Tailwind CSS v4 and Tesseract.js, wrapped in a high-contrast neubrutalist interface.
 
-[Repository](https://github.com/Zaraar21-cloud/Attendify)
+[Repository](https://github.com/Zaraar21-cloud/Attendify) &nbsp;·&nbsp; [Live beta](https://attendify-web.netlify.app/)
 
 ---
 
